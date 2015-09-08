@@ -1,0 +1,9 @@
+name: yaginuuu/vibi-box
+version: 0.0.1
+inherits: wercker/ruby
+type: main
+platform: ubuntu@12.04
+description: Say hello vibi!
+keywords:
+  - hello
+    script: |
